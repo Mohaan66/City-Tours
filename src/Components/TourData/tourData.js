@@ -1,34 +1,53 @@
 export const tourData = [
   {
     id: 1,
-    city: "mogadishu",
-    img: "./image/mogadishu.jpg",
-    name: "mogadishu lido beach view",
+    city: "london",
+    img: "./image/ldn.jpg",
+    name: " united kingdom",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Book and find cheap flights and hotels all around the world !"
   },
   {
     id: 2,
-    city: "hargeysa",
-    img: "./image/hargeysa.jpg",
-    name: "hargeysa city centre",
+    city: "newyork",
+    img: "./image/nyk.jpg",
+    name: " united states",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Book and find cheap flights and hotels all around the world!"
   },
   {
     id: 3,
-    city: "kismayo",
-    img: "./image/kismayo.jpg",
-    name: "kismayo city view and beach",
+    city: "tokiyo",
+    img: "./image/tky.jpg",
+    name: " japan",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Book and find cheap flights and hotels all around the world!"
   },
   {
     id: 4,
-    city: "bosaso",
-    img: "./image/bosaso.jpg",
-    name: "bosaso city view",
+    city: "dubai",
+    img: "./image/db.jpg",
+    name: " united arab emirates",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Book and find cheap flights and hotels all around the world!"
+  },
+
+  {
+    id: 5,
+    city: "paris",
+    img: "./image/prs.jpg",
+    name: " france",
+    info: "Book and find cheap flights and hotels all around the world!"
+  },
+
+  {
+    id: 6,
+    city: "syned",
+    img: "./image/syn.jpg",
+    name: "australia",
+    info: "Book and find cheap flights and hotels all around the world!"
   }
-];
+
+  ]
+
+  

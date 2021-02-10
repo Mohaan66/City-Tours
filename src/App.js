@@ -1,10 +1,8 @@
 import React, { Component } from 'react';
 import Navbar from './Components/Navbar/Navbar';
-//import SearchBox from './Components/SearchBox/SearchBox';
+import Footer from './Components/Footer/Footer';
 import './App.scss';
 import TourList from './Components/TourList';
-
-import SearchBox from './Components/SearchBox/SearchBox';
 
 
 class App extends Component {
@@ -15,8 +13,11 @@ render() {
   	<div className='App'>
    
    <Navbar />
-   <SearchBox />
-   <TourList />
+   
+  
+   
+    <TourList />
+    <Footer />
    
    
 
